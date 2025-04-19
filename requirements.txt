@@ -7,3 +7,7 @@ numpy
 tensorflow
 imblearn
 joblib
+focal-loss
+streamlit
+seaborn
+matplotlib
