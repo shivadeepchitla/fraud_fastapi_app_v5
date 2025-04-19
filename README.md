@@ -10,6 +10,11 @@
 
 ## How to Run
 
+- Navigate root folder (where you downloaded this code folder) before running the below commands
+- follow Streamlit steps below.
+- Prefer Streamlit over uvicorn run.
+- If you want to work with RestAPIs , prefer uvicorn
+
 ### FastAPI Server
 1. Install dependencies:
    ```bash
